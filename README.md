@@ -14,6 +14,9 @@
     React Router Dom
   </li>
   <li>
+    React Icon
+    </li>
+  <li>
     <a href="https://styled-components.com/">Styled Component</a>
   </li>
 </ul>
